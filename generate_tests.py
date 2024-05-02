@@ -5,7 +5,6 @@ from common.abstract_executor import AbstractExecutor
 from file_name_check import file_name_check
 from to_test.number_to_words import number_to_words
 from to_test.strong_password_checker import strong_password_checker
-from to_test.basic_calculator import calculate
 import importlib
 
 key = "YOUR KYE HERE"
